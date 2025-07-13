@@ -43,9 +43,9 @@ This project focuses on creating an interactive Power BI dashboard for customers
 - Presence of artificial flavour/color (yes, no)
 
 4. Which Chip Fits You?" Filter Panel
- Pack Size
+ - Pack Size
 
-5.  Insights & Decisions
+6.  Insights & Decisions
 
 - Helps customers avoid allergens or unwanted ingredients,
 - Encourages healthier snack choices,
