@@ -43,7 +43,7 @@ This project focuses on creating an interactive Power BI dashboard for customers
 - Presence of artificial flavour/color (yes, no)
 
 4. Which Chip Fits You?" Filter Panel
-Pack Size
+ Pack Size
 
 5.  Insights & Decisions
 
