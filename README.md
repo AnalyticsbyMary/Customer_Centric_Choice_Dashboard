@@ -1,7 +1,6 @@
 # A Customer-Centric Chips Power BI Dashboard
 
-<img width="776" height="549" alt="Screenshot 2025-07-09 120517" src="https://github.com/user-attachments/assets/0f5d5d35-6609-475d-835c-c9ac10edbe33" />
-
+<img width="740" height="522" alt="Screenshot 2025-08-04 153715" src="https://github.com/user-attachments/assets/47127cdf-d6f6-43d8-bb44-d5e9dcbabc07" />
 
 ## Project Overview
 
